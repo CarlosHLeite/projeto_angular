@@ -1,2 +1,2 @@
-# projeto_angular
+# angular-project
 Created with CodeSandbox
